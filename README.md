@@ -4,13 +4,9 @@ This project focuses on analyzing customer reviews from Amazon to predict whethe
 
 Goal:
 To help understand customer opinions by automatically analyzing large amounts of review data and extracting useful insights for businesses or users.
-
 Tech Stack:
-
 Python
-
-Pandas, Numpy
-
+Pandas
+Numpy
 Scikit-learn
-
 NLP (NLTK / spaCy)
